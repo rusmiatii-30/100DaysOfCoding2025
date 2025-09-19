@@ -33,15 +33,15 @@ public class Day012 {
         double Berat_Badan = input.nextDouble();
         
         
-       //System.out.println("Masukkan Nama\t\t\t: + Nama ");
-       //System.out.println("Masukkan Tempat Tanggal Lahir\t: + Tempat Tanggal Lahir");
-       //System.out.println("Masukkan Jenis Kelamin\t\t: + Jenis Kelamin");
-       //System.out.println("Masukkan Alamat\t\t\t: + Alamat ");
-       //System.out.println("Masukkan Hobi\t\t\t: + Hobi");
-       //System.out.println("Masukkan No Telpon\t\t: + No Telpon");
-       //System.out.println("Masukkan Umur\t\t\t: + Umur");
-       //System.out.println("Masukkan Tinggi Badan\t\t: + Tinggi Badan");
-       //System.out.println("Masukkan Berat Badan\t\t: + Berat Badan");
+       System.out.println("Masukkan Nama\t\t\t: " + Nama );
+       System.out.println("Masukkan Tempat Tanggal Lahir\t:" + TTL);
+       System.out.println("Masukkan Jenis Kelamin\t\t: " + Jenis_Kelamin);
+       System.out.println("Masukkan Alamat\t\t\t: " + Alamat );
+       System.out.println("Masukkan Hobi\t\t\t: " + Hobi);
+       System.out.println("Masukkan No Telpon\t\t: "+ No_Telpon);
+       System.out.println("Masukkan Umur\t\t\t: "+ Umur);
+       System.out.println("Masukkan Tinggi Badan\t\t:" + Tinggi_Badan);
+       System.out.println("Masukkan Berat Badan\t\t:" + Berat_Badan);
          
     }
     
