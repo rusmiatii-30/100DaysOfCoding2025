@@ -15,7 +15,6 @@ public class Day016 {
         double Jumlah2 = Angka1 / Angka2;
         
         System.out.println("Hasil Perkalian : " + Jumlah1);
-        System.out.println("Hasil Pengurangan : " + Jumlah2);
+        System.out.println("Hasil Pembagian : " + Jumlah2);
     }
-    
 }
