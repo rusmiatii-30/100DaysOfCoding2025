@@ -8,15 +8,15 @@ public class Days020 {
        boolean true_false = true;
        
        String nilai2 = String.valueOf(nilai);
-       String angak2 = String.valueOf(angka);
+       String angka2 = String.valueOf(angka);
        String jumlah2 = String.valueOf(jumlah);
        String true_false2 = String.valueOf(true_false);
        
        
-       System.out.println(nilai);
-       System.out.println(angka);
-       System.out.println(jumlah);
-       System.out.println(true_false);
+       System.out.println(nilai2);
+       System.out.println(angka2);
+       System.out.println(jumlah2);
+       System.out.println(true_false2);
     }
     
 }
