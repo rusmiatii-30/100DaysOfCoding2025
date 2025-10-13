@@ -14,13 +14,18 @@ public class Days036 {
         if(Angka > 0){
             System.out.println("Angka Positif");
         }
-        if(Angka % 2 == 0 ){
-            System.out.println("Angka Genap");
+        else if(Angka < 0 ){
+            System.out.println("Angka Negatif");
+        }
+        else{
+            System.out.println("Angka Nol");
         }
        
        
-      
+        
     }
 }
+
+   
 
    
