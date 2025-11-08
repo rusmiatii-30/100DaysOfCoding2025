@@ -8,9 +8,8 @@ public class Days062 {
         
         for (int i = 1; i <= N; i++) {
             j = j + i;
-            System.out.print( j + " ");
-            
         }
+            System.out.print( j );
     }
     
 }
